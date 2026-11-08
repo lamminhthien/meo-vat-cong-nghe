@@ -150,12 +150,14 @@ Tiếp theo, cuộn xuống chạm **Dữ liệu sử dụng và chẩn đoán**
 
 ## 6. Dịch vụ Google
 
-**Đường dẫn:** Cài đặt → **Google** (Dịch vụ Google).
+**Đường dẫn:** Cài đặt → **Google** (Dịch vụ Google) → **Tất cả dịch vụ** → mục *Quyền riêng tư và bảo mật*.
 
-Thực hiện:
+Chạm vào từng mục được khoanh đỏ và **tắt**:
 
-- Tắt **cá nhân hóa bằng dữ liệu được chia sẻ**.
-- Tắt **dữ liệu sử dụng và chẩn đoán** (đã làm ở bước 5.2, kiểm tra lại cho chắc).
+- **Cá nhân hóa bằng dữ liệu được chia sẻ**
+- **Dữ liệu sử dụng và chẩn đoán** (đã làm ở bước 5.2, kiểm tra lại cho chắc)
+
+![Dịch vụ google, tắt cá nhân hóa dữ liệu](Di%CC%A3ch%20vu%CC%A3%20google%2C%20ta%CC%86%CC%81t%20ca%CC%81%20nha%CC%82n%20ho%CC%81a%20du%CC%9B%CC%83%20lie%CC%A3%CC%82u.jpg)
 
 ---
 
@@ -163,8 +165,31 @@ Thực hiện:
 
 **Đường dẫn:** Cài đặt → **Chăm sóc thiết bị**.
 
-- **Tự động tối ưu:** bật **Tự động khởi động lại**. Máy khởi động lại định kỳ sẽ giải phóng RAM và hạn chế giật lag sau thời gian dài không tắt máy.
-- **Bộ nhớ:** tắt **RAM Plus**. Tính năng này dùng bộ nhớ trong làm RAM ảo, thường không cải thiện được bao nhiêu mà còn hao bộ nhớ lưu trữ.
+### 7.1. Bật tự động khởi động lại
+
+Máy khởi động lại định kỳ sẽ giải phóng RAM và hạn chế giật lag sau thời gian dài không tắt máy.
+
+Trong *Chăm sóc thiết bị*, kéo xuống mục *Hiệu suất* và chạm **Tự động tối ưu**.
+
+![Chăm sóc thiết bị -> tự động tối ưu](Cha%CC%86m%20so%CC%81c%20thie%CC%82%CC%81t%20bi%CC%A3%20-%3E%20tu%CC%9B%CC%A3%20%C4%91o%CC%A3%CC%82ng%20to%CC%82%CC%81i%20u%CC%9Bu.jpg)
+
+Ở cuối trang, chạm **Tự khởi động lại** và bật lên. Ảnh dưới là lịch khởi động lại lúc **03:00 mỗi ngày**. Nên chọn giờ bạn không dùng máy.
+
+![Bật tự động khởi động lại](Ba%CC%A3%CC%82t%20tu%CC%9B%CC%A3%20%C4%91o%CC%A3%CC%82ng%20kho%CC%9B%CC%89i%20%C4%91o%CC%A3%CC%82ng%20la%CC%A3i.jpg)
+
+### 7.2. Tắt RAM Plus
+
+RAM Plus dùng một phần bộ nhớ trong làm RAM ảo. Tính năng này thường không cải thiện được bao nhiêu mà còn hao bộ nhớ lưu trữ.
+
+Trong *Chăm sóc thiết bị*, chạm vào mục **Bộ nhớ**.
+
+![Chăm sóc thiết bị -> Bộ nhớ](Cha%CC%86m%20so%CC%81c%20thie%CC%82%CC%81t%20bi%CC%A3%20-%3E%20Bo%CC%A3%CC%82%20nho%CC%9B%CC%81.jpg)
+
+Kéo xuống cuối trang, chạm **RAM Plus** và chọn **Tắt**.
+
+![Tắt Ram plus](Ta%CC%86%CC%81t%20Ram%20plus.jpg)
+
+> Cũng trong trang *Bộ nhớ* có nút **Dọn ngay** để dừng các ứng dụng chạy nền và giải phóng RAM tức thì khi máy đang chậm.
 
 ---
 
@@ -283,7 +308,26 @@ Kéo xuống và **bật**:
 
 ## 12. Bảo trì định kỳ
 
-- **Xóa bộ nhớ đệm (cache) của ứng dụng** thường xuyên: Cài đặt → Ứng dụng → chọn ứng dụng → Lưu trữ → *Xóa bộ nhớ đệm*. Ưu tiên các ứng dụng nặng như trình duyệt, mạng xã hội, YouTube.
+### 12.1. Xóa bộ nhớ đệm (cache) của ứng dụng
+
+Bộ nhớ đệm phình to theo thời gian làm đầy bộ nhớ và có thể làm ứng dụng chậm. Xóa cache **không làm mất dữ liệu hay tài khoản**. Nên làm thường xuyên.
+
+**Bước 1:** Cài đặt → **Ứng dụng**. Danh sách có thể sắp xếp theo dung lượng. Chọn trước những ứng dụng chiếm nhiều dung lượng (khoanh đỏ trong ảnh), như game, trình duyệt, mạng xã hội.
+
+![Ứng dụng, chọn và tìm những ứng dụng có dung lượng cao cần xóa cache trước](U%CC%9B%CC%81ng%20du%CC%A3ng%2C%20cho%CC%A3n%20va%CC%80%20ti%CC%80m%20nhu%CC%9B%CC%83ng%20u%CC%9B%CC%81ng%20du%CC%A3ng%20co%CC%81%20dung%20lu%CC%9Bo%CC%9B%CC%A3ng%20cao%20ca%CC%82%CC%80n%20xo%CC%81a%20cache%20tru%CC%9Bo%CC%9B%CC%81c.jpg)
+
+**Bước 2:** Trong *Thông tin ứng dụng*, chạm **Lưu trữ**.
+
+![Vào phần lưu trữ để xóa cache](Va%CC%80o%20pha%CC%82%CC%80n%20lu%CC%9Bu%20tru%CC%9B%CC%83%20%C4%91e%CC%82%CC%89%20xo%CC%81a%20cache.jpg)
+
+**Bước 3:** Chạm **Xóa bộ nhớ đệm** (góc dưới bên phải).
+
+![Click nút xóa bộ nhớ đệm](Click%20nu%CC%81t%20xo%CC%81a%20bo%CC%A3%CC%82%20nho%CC%9B%CC%81%20%C4%91e%CC%A3%CC%82m.jpg)
+
+> **Đừng chạm nhầm Xóa dữ liệu** (nút bên cạnh). Nút đó xóa toàn bộ dữ liệu ứng dụng, gồm đăng nhập và tiến trình game.
+
+### 12.2. Rà soát định kỳ
+
 - Cứ vài tuần, xem lại **Pin** để biết ứng dụng nào đang tốn pin nhất, và xem lại **Trình quản lý quyền** (mục 5.1).
 
 ---
